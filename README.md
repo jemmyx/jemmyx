@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jemmyx
 - 👀 I’m interested in computing, playing music, watching horror movies and sport. 
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me : me@fabiomeyer.com
 
 <!---
