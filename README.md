@@ -1,6 +1,6 @@
-- I’m @jemmyx
-- Interested in computing, playing music 
-- How to reach me : me@fabiomeyer.com
+- I am software engineer with a strong interest in micro-services architecture.
+- Interest for computing, music, sport. 
+- Contact :[ me@fabiomeyer.com](https://www.linkedin.com/in/fabio-meyer-web-developer)
 
 <!---
 jemmyx/jemmyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
