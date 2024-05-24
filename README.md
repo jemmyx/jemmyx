@@ -1,4 +1,4 @@
-- I am software engineer with a strong interest in micro-services architecture.
+- I am software engineer with a strong interest in micro-services architecture and LLM-driven initiatives.
 - Interest for computing, music, sport. 
 - Contact :[ me@fabiomeyer.com](https://www.linkedin.com/in/fabio-meyer-web-developer)
 
