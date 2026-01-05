@@ -1,8 +1,23 @@
-- I am software engineer with a strong interest in micro-services architecture and LLM-driven initiatives.
-- Interest for computing, music, sport. 
-- Contact :[ me@fabiomeyer.com](https://www.linkedin.com/in/fabio-meyer-web-developer)
+# Fabio Meyer
+## Senior Backend & AI Software Engineer | Father of the CDD paradigm - manifest on medium @fabio.meyer
+```
+Node | React | Java | Python | LLM | AWS | GCP
+```
+My background is rooted in backend engineering (Node.js, Java), cloud platforms, and distributed systems. I have specialized in integrating AI capabilities—particularly LLM-based systems.
 
-<!---
-jemmyx/jemmyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- System design
+- AI integration (LLM, RAG, automation)
+- Communication with technical and non-technical stakeholders  
+- Large-scale environments
+
+
+Senior backend engineer with 15+ years of experience in the design, industrialization, and operation of software platforms, microservices, and APIs. Specialized in Node.js and Java, with a strong cloud and DevOps background acquired in regulated environments (insurance, banking, healthcare, NGOs).
+Comfortable working across the full lifecycle, from architecture and development to production and operational reliability.
+
+### Core skills
+- Node.js, Java, Python, PHP
+- RAG, Ollama, FAISS, ChromaDB, Mistral 7B
+- Docker, Kubernetes, AWS, OpenShift, GCP
+- PostgreSQL, MongoDB, Redis
+- React, Vue.js, Angular
+- Agile/Scrum, TDD
