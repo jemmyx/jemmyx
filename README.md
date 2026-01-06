@@ -1,6 +1,7 @@
 # Fabio Meyer
-## Senior Backend & AI Software Engineer | Father of the CDD paradigm - manifest on medium @fabio.meyer
-[Connect to LinkedIn](https://www.linkedin.com/in/fabio-meyer-software-engineer/) 
+## Senior Backend & AI Software Engineer | Initiator of the CDD paradigm - manifest on medium @fabio.meyer
+- [CDD Framework Initiative : Github Repo](https://github.com/orgs/cdd-framework/repositories)
+- [Connect to LinkedIn](https://www.linkedin.com/in/fabio-meyer-software-engineer/) 
 ```
 Node | React | Java | Python | LLM | AWS | GCP
 ```
