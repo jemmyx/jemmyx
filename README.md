@@ -30,35 +30,17 @@ Activites: Music, comedian, ultra-trail
 
 Some of the website I build
 
-#### Kadomi-Newtwork : kadomi.shop
-Kadomi Network is a business partnership network built into Kadomi solutions, helping local businesses grow visibility and acquire new customers without heavy ad spending.
+Kadomi.shop : Kadomi Network is a business partnership network built into Kadomi solutions, helping local businesses grow visibility and acquire new customers without heavy ad spending.
 Members cross-promote each other through high-impact channels such as social media, websites, flyers, order emails, and PDF tickets—turning everyday sales into shared growth opportunities through simple, win-win collaborations.
-
-#### MyTicketing.ch
-Online ticket part of the marketplace Kadomi-Network
-
-#### SPKombat - spkombat.com
-The ultimate fight sports hub. Feel the power, live the action, embrace the fight.
-
-#### Wildpeaks.tv
-A video streaming platform dedicated to trail running and outdoor sports, featuring documentaries, live events and interviews.
-
-#### TranswissRun.ch
-The Ultimate Swiss Crossing. A mythical ultra-marathon from west to east through the Swiss Alps.
-
-#### Standup-comedy.ch
-Video content about swiss standup-comedy
-
-#### Ragescream.com
-Metal-based music plateform.
-
-#### Worldmetalbands.com
-Band endorsement & promotion tour
-
-#### Metalheart.shop
-Metal merchandising shop online
-
-#### fabiomeyer.com
+MyTicketing.ch: Online ticket part of the marketplace Kadomi-Network
+SPKkombat.com : The ultimate fight sports hub. Feel the power, live the action, embrace the fight.
+Wildpeaks.tv : A video streaming platform dedicated to trail running and outdoor sports, featuring documentaries, live events and interviews.
+TranswissRun.ch : The Ultimate Swiss Crossing. A mythical ultra-marathon from west to east through the Swiss Alps.
+Standup-comedy.ch : Video content about swiss standup-comedy
+Ragescream.com : Metal-based music plateform.
+Worldmetalbands.com : Band endorsement & promotion tour
+Metalheart.shop : Metal merchandising shop online
+fabiomeyer.com
 
 
 
